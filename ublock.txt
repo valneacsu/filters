@@ -51,11 +51,24 @@ google.*###epbar
 google.*###cnso
 google.*###rhscol
 
+! Hide app offer
+imgur.com##.FloatingOIA
+
 itfiles.ro###sidebar-place
 
 pcgarage.ro###fixed_nl
 
+! Hide cookie notice
 reddit.com###eu-cookie-policy > .cookie-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+!reddit.com##.EUCookieNotice
+
+! Hide app offer
+reddit.com##.InterstitialPromo
+reddit.com##.InterstitialListing
+reddit.com##.IPhoneAppPreview
+!reddit.com##.DualPartInterstitial
+reddit.com##.DualPartInterstitialFooter
+reddit.com##.TransparentOverlay__overlay
 
 trafictube.ro###secondary
 trafictube.ro##.left-sidebar.pushy.pushy-left
@@ -66,6 +79,9 @@ twitch.tv##.ima-ads-container.js-ima-ads-container
 twitch.tv##.js-control-fullscreen-overlay.player-fullscreen-overlay.player-overlay
 twitch.tv##.js-player-loading.player-loading.player-overlay
 twitch.tv##.player-play-overlay.player-overlay
+
+! Hide side panel
+xda-developers.com###sidepanel
 
 zoso.ro###secondary
 zoso.ro###zosoblog > .site-header
