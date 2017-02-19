@@ -1,0 +1,73 @@
+! 2017.02.19 09:53 UTC
+
+!===============================================================================
+! Whitelist
+!===============================================================================
+
+@@|chrome://*
+@@|https?://10.*.*.*
+@@|https?://192.168.*.*
+@@|http://www.mozilla.org
+@@||support.lenovo.com
+@@||juniper.net
+
+!===============================================================================
+
+
+!===============================================================================
+! Content blocking
+!===============================================================================
+
+! Fix Amazon slow page load
+||ssl-images-amazon.com$object
+||images-amazon.com$object
+
+||big.lazyadmin.ro/*.js
+
+||profitshare.ro
+
+||trafictube.ro^$inline-script
+||trafictube.ro/wp-content/Banners/*
+||trafictube.ro/wp-content/themes/trafictubenew/js/*
+
+||zoso.ro/wp-content/themes/zoso-child/images/*
+
+!===============================================================================
+
+
+!===============================================================================
+! Element hiding
+!===============================================================================
+
+biziday.ro##.ContentColRight.right
+biziday.ro##.leftColContent
+
+cetin.ro##.cetinblog > .site-header > .prehead
+cetin.ro###secondary
+
+google.*##DIV\[style="display: block; position: absolute; top: 0px; right: 0px;"]
+google.*###epbar
+! Hide "A privacy reminder from Google"
+google.*###cnso
+google.*###rhscol
+
+itfiles.ro###sidebar-place
+
+pcgarage.ro###fixed_nl
+
+reddit.com###eu-cookie-policy > .cookie-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+
+trafictube.ro###secondary
+trafictube.ro##.left-sidebar.pushy.pushy-left
+trafictube.ro###masthead
+
+! Fix broken twitch.tv due to disabled autoplay
+twitch.tv##.ima-ads-container.js-ima-ads-container 
+twitch.tv##.js-control-fullscreen-overlay.player-fullscreen-overlay.player-overlay
+twitch.tv##.js-player-loading.player-loading.player-overlay
+twitch.tv##.player-play-overlay.player-overlay
+
+zoso.ro###secondary
+zoso.ro###zosoblog > .site-header
+
+!===============================================================================
