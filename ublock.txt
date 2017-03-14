@@ -64,11 +64,11 @@ reddit.com###eu-cookie-policy > .cookie-infobar.with-btn.with-icon.md-container-
 
 ! App offer
 !reddit.com##.DualPartInterstitial
-reddit.com##.DualPartInterstitialFooter
-reddit.com##.InterstitialPromo
-reddit.com##.InterstitialListing
-reddit.com##.IPhoneAppPreview
-reddit.com##.TransparentOverlay__overlay
+!reddit.com##.DualPartInterstitialFooter
+!reddit.com##.InterstitialPromo
+!reddit.com##.InterstitialListing
+!reddit.com##.IPhoneAppPreview
+!reddit.com##.TransparentOverlay__overlay
 
 trafictube.ro##.left-sidebar.pushy.pushy-left
 trafictube.ro###masthead
