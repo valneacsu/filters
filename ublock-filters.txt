@@ -1,4 +1,4 @@
-! 2017.02.19 09:53 UTC
+! 2017.07.24 16:03 UTC
 
 !===============================================================================
 ! Whitelist
@@ -50,11 +50,16 @@ google.*###epbar
 ! "A privacy reminder from Google"
 google.*###cnso
 google.*###rhscol
+! Hide cookie notice
+google.*##.gb_g.gb_Mc.gb_ld
 
 ! App offer
 imgur.com##.FloatingOIA
 
 itfiles.ro###sidebar-place
+
+! Hide cookie notice
+meteoblue.com##.successMessage
 
 pcgarage.ro###fixed_nl
 
