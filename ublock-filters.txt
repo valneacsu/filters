@@ -1,4 +1,4 @@
-! 2017.07.24 16:03 UTC
+! 2017.07.29 17:45 UTC
 
 !===============================================================================
 ! Whitelist
@@ -52,6 +52,8 @@ google.*###cnso
 google.*###rhscol
 ! Hide cookie notice
 google.*##.gb_g.gb_Mc.gb_ld
+! Hide browser advert
+google.*##.gb_g.gb_Mc.gb_Zc.gb_Xc
 
 ! App offer
 imgur.com##.FloatingOIA
