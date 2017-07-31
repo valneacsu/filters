@@ -8,8 +8,9 @@
 @@|https?://10.*.*.*
 @@|https?://192.168.*.*
 @@|http://www.mozilla.org
-@@||support.lenovo.com
 @@||juniper.net
+@@||support.lenovo.com
+@@||thenorthface.*/*/coremetrics/*
 
 !===============================================================================
 
