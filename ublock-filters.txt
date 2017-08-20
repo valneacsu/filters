@@ -1,15 +1,13 @@
-! 2017.08.09 00:28 UTC
+! 2017.08.20 16:12 UTC
 
 !===============================================================================
 ! Whitelist
 !===============================================================================
 
 @@|chrome://*
-@@|https?://10.*.*.*
-@@|https?://192.168.*.*
-@@|http://www.mozilla.org
-@@||juniper.net
-@@||support.lenovo.com
+@@||juniper.net^
+@@||mozilla.org^
+@@||support.lenovo.com^
 @@||thenorthface.*/*/coremetrics/*
 
 !===============================================================================
@@ -23,9 +21,9 @@
 ||ssl-images-amazon.com$object
 ||images-amazon.com$object
 
-||big.lazyadmin.ro/*.js
+||lazyadmin.ro/*.js
 
-||profitshare.ro
+||profitshare.ro^
 
 ||trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
@@ -53,10 +51,8 @@ google.*###epbar
 ! "A privacy reminder from Google"
 google.*###cnso
 google.*###rhscol
-! Hide cookie notice
-google.*##.gb_g.gb_Mc.gb_ld
-! Hide browser advert
-google.*##.gb_g.gb_Mc.gb_Zc.gb_Xc
+! Hide nags
+google.*##.gb_g
 
 ! App offer
 imgur.com##.FloatingOIA
@@ -69,20 +65,7 @@ meteoblue.com##.successMessage
 pcgarage.ro###fixed_nl
 
 ! Cookie notice
-reddit.com###eu-cookie-policy > .cookie-infobar.with-btn.with-icon.md-container-small.reddit-infobar
-!reddit.com##.EUCookieNotice
-
-! App offer
-!reddit.com##.DualPartInterstitial
-!reddit.com##.DualPartInterstitialFooter
-!reddit.com##.InterstitialPromo
-!reddit.com##.InterstitialListing
-!reddit.com##.IPhoneAppPreview
-!reddit.com##.TransparentOverlay__overlay
-
-trafictube.ro##.left-sidebar.pushy.pushy-left
-trafictube.ro###masthead
-trafictube.ro###secondary
+reddit.com###eu-cookie-policy
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
