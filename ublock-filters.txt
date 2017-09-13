@@ -78,6 +78,9 @@ twitch.tv##.player-play-overlay-button
 ! Side panel
 xda-developers.com###sidepanel
 
+! Privacy notice bar
+youtube.com###ticker
+
 zoso.ro###secondary
 zoso.ro###zosoblog > .site-header
 
