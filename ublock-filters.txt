@@ -51,6 +51,7 @@ google.*###epbar
 ! "A privacy reminder from Google"
 google.*###cnso
 google.*###rhscol
+google.*##.widget-consent-dialog
 ! Hide nags
 google.*##.gb_g
 
