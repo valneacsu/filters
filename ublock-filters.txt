@@ -46,6 +46,8 @@ biziday.ro##.leftColContent
 cetin.ro##.cetinblog > .site-header > .prehead
 cetin.ro###secondary
 
+daft.ie###dd-LocalDealer
+
 ebay.*##.hl-banner
 
 google.*##DIV\[style="display: block; position: absolute; top: 0px; right: 0px;"]
