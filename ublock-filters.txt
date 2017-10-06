@@ -43,6 +43,8 @@
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
 
+boards.ie##.top_adslot_wrapper
+
 cetin.ro##.cetinblog > .site-header > .prehead
 cetin.ro###secondary
 
