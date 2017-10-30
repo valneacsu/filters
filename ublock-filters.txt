@@ -23,6 +23,8 @@
 ||ssl-images-amazon.com$object
 ||images-amazon.com$object
 
+||facebook.com^
+
 ||lazyadmin.ro/*.js
 
 ||profitshare.ro^
