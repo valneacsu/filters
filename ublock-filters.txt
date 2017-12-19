@@ -78,8 +78,6 @@ reddit.com###eu-cookie-policy
 ! Sign-up nag
 reddit.com##.listingsignupbar
 reddit.com##.commentsignupbar
-! Related topics spam
-reddit.com###siteTable
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
