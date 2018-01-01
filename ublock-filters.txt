@@ -17,8 +17,6 @@
 ! Content blocking
 !===============================================================================
 
-||9gag.com^
-
 ! Fix Amazon slow page load
 ||ssl-images-amazon.com$object
 ||images-amazon.com$object
