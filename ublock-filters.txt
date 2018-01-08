@@ -23,7 +23,7 @@
 
 ||facebook.com^
 
-||lazyadmin.ro/*.js
+!||lazyadmin.ro/*.js
 
 ||profitshare.ro^
 
