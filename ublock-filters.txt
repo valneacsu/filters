@@ -10,6 +10,10 @@
 @@||support.lenovo.com^
 @@||thenorthface.*/*/coremetrics/*
 
+! Unbreak daft.ie
+@@||dmstatic.com/*/jscript/daftie/tealium/tealium-plugin.js
+@@||dmstatic.com/*/jscript/daftie/tealium/tealium-config.js
+
 !===============================================================================
 
 
