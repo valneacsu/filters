@@ -93,6 +93,8 @@ reddit.com##.commentsignupbar
 reddit.com##.seo-comments-recommendations
 reddit.com##.spacer.seo-comments
 reddit.com###bottom-comments
+! Unbreak blank top of page
+reddit.com###block-homepage
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
