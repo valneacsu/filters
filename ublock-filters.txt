@@ -95,6 +95,8 @@ reddit.com##.spacer.seo-comments
 reddit.com###bottom-comments
 ! Unbreak blank top of page
 reddit.com###block-homepage
+! Hide welcome spam
+reddit.com##.onboardingbar
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
