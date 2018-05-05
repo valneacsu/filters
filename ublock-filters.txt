@@ -65,6 +65,8 @@ daft.ie###dd-LocalDealer
 
 ebay.*##.hl-banner
 
+github.com##*.signup-prompt
+
 google.*##DIV\[style="display: block; position: absolute; top: 0px; right: 0px;"]
 google.*###epbar
 ! "A privacy reminder from Google"
