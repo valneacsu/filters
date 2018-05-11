@@ -101,6 +101,8 @@ reddit.com###block-homepage
 reddit.com##.onboardingbar
 ! Hide redesign optin prompt
 reddit.com##.redesign-beta-optin
+! Hide "give gold" spam
+reddit.com##.buttons.flat-list > .give-gold-button
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
