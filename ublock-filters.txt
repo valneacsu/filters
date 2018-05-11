@@ -99,6 +99,8 @@ reddit.com###bottom-comments
 reddit.com###block-homepage
 ! Hide welcome spam
 reddit.com##.onboardingbar
+! Hide redesign optin prompt
+reddit.com##.redesign-beta-optin
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
