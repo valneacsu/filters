@@ -103,6 +103,9 @@ reddit.com##.onboardingbar
 reddit.com##.redesign-beta-optin
 ! Hide "give gold" spam
 reddit.com##.buttons.flat-list > .give-gold-button
+! Remove subreddit branding
+reddit.com##^link[title="applied_subreddit_stylesheet"]
+reddit.com###header-img
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
