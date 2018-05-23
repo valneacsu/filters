@@ -107,6 +107,9 @@ reddit.com##.buttons.flat-list > .give-gold-button
 reddit.com##^link[title="applied_subreddit_stylesheet"]
 reddit.com###header-img
 
+! Privacy consent spam
+theverge.com###privacy-consent
+
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
 twitch.tv##.js-control-fullscreen-overlay.player-fullscreen-overlay.player-overlay
