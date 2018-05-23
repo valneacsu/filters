@@ -107,6 +107,8 @@ reddit.com##.buttons.flat-list > .give-gold-button
 reddit.com##^link[title="applied_subreddit_stylesheet"]
 reddit.com###header-img
 
+! Hide floating header bar
+theverge.com##.tab-bar-fixed
 ! Privacy consent spam
 theverge.com###privacy-consent
 
