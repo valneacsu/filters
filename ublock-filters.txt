@@ -53,6 +53,9 @@ gfycat.com#@#.share-video
 ! Element hiding
 !===============================================================================
 
+! Privacy consent spam
+###privacy-consent
+
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
 
@@ -109,8 +112,6 @@ reddit.com###header-img
 
 ! Hide floating header bar
 theverge.com##.tab-bar-fixed
-! Privacy consent spam
-theverge.com###privacy-consent
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
