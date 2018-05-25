@@ -112,6 +112,9 @@ reddit.com###header-img
 
 ! Hide floating header bar
 theverge.com##.tab-bar-fixed
+! Hide full-screen privacy consent dialog
+theverge.com###privacy-consent-ui
+theverge.com###privacyConsent
 
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container 
