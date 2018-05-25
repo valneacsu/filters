@@ -109,6 +109,8 @@ reddit.com##.buttons.flat-list > .give-gold-button
 ! Remove subreddit branding
 reddit.com##^link[title="applied_subreddit_stylesheet"]
 reddit.com###header-img
+! T&C floating bar
+reddit.com###uapp-banner
 
 ! Hide floating header bar
 theverge.com##.tab-bar-fixed
