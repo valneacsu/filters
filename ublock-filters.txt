@@ -68,6 +68,9 @@ daft.ie###dd-LocalDealer
 
 ebay.*##.hl-banner
 
+! Hide floating header
+engadget.com##.h-80
+
 github.com##*.signup-prompt
 
 google.*##DIV\[style="display: block; position: absolute; top: 0px; right: 0px;"]
