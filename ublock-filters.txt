@@ -68,7 +68,7 @@ daft.ie###dd-LocalDealer
 
 ebay.*##.hl-banner
 
-! Hide floating header
+! Floating header
 engadget.com##.h-80
 
 github.com##*.signup-prompt
@@ -79,13 +79,17 @@ google.*###epbar
 google.*###cnso
 google.*###rhscol
 google.*##.widget-consent-dialog
-! Hide nags
+! Nags
 google.*##.gb_g
 
 ! App offer
 imgur.com##.FloatingOIA
 
 itfiles.ro###sidebar-place
+
+! GDPR notice
+makeuseof.com##.sncmp-popup_overlay
+makeuseof.com##.sncmp-popup_content
 
 ! Hide cookie notice
 meteoblue.com##.successMessage
@@ -105,9 +109,9 @@ reddit.com###bottom-comments
 reddit.com###block-homepage
 ! Hide welcome spam
 reddit.com##.onboardingbar
-! Hide redesign optin prompt
+! Redesign opt-in prompt
 reddit.com##.redesign-beta-optin
-! Hide "give gold" spam
+! "Give gold" spam
 reddit.com##.buttons.flat-list > .give-gold-button
 ! Remove subreddit branding
 reddit.com##^link[title="applied_subreddit_stylesheet"]
@@ -115,14 +119,14 @@ reddit.com###header-img
 ! T&C floating bar
 reddit.com###uapp-banner
 
-! Hide floating header bar
+! Floating header bar
 theverge.com##.tab-bar-fixed
-! Hide full-screen privacy consent dialog
+! Full-screen privacy consent dialog
 theverge.com###privacy-consent-ui
 theverge.com###privacyConsent
 
 ! Fix broken twitch.tv due to disabled autoplay
-twitch.tv##.ima-ads-container.js-ima-ads-container 
+twitch.tv##.ima-ads-container.js-ima-ads-container
 twitch.tv##.js-control-fullscreen-overlay.player-fullscreen-overlay.player-overlay
 twitch.tv##.js-player-loading.player-loading.player-overlay
 twitch.tv##.js-video-loading
