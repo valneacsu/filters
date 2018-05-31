@@ -118,6 +118,8 @@ reddit.com##^link[title="applied_subreddit_stylesheet"]
 reddit.com###header-img
 ! T&C floating bar
 reddit.com###uapp-banner
+! Floating navigation bar
+reddit.com##.fixed
 
 ! Floating header bar
 theverge.com##.tab-bar-fixed
