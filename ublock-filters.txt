@@ -53,8 +53,9 @@ gfycat.com#@#.share-video
 ! Element hiding
 !===============================================================================
 
-! Privacy consent spam
+! Privacy/GDPR spam
 ###privacy-consent
+###cookie-warning-gdpr
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
