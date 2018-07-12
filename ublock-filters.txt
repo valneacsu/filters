@@ -86,6 +86,8 @@ google.*##.gb_g
 
 ! App offer
 imgur.com##.FloatingOIA
+! Floating bar
+imgur.com###topbar
 
 itfiles.ro###sidebar-place
 
