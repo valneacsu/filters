@@ -73,6 +73,8 @@ ebay.*##.hl-banner
 ! Floating header
 engadget.com##.h-80
 
+gfycat.com##.navigation-container
+
 github.com##*.signup-prompt
 
 google.*##DIV\[style="display: block; position: absolute; top: 0px; right: 0px;"]
@@ -88,6 +90,8 @@ google.*##.gb_g
 imgur.com##.FloatingOIA
 ! Floating bar
 imgur.com###topbar
+imgur.com##.Navbar
+imgur.com##.FooterOIA-container
 
 itfiles.ro###sidebar-place
 
@@ -147,5 +151,11 @@ youtube.com###ticker
 
 zoso.ro###secondary
 zoso.ro###zosoblog > .site-header
+
+! Hide overlays
+! Need to manually select and hide popups and overlays, while the below snippet resets
+! the scrolling back to normal.
+!example.com##script:inject(overlay-buster.js)
+!example.com##body:style(overflow: auto !important)
 
 !===============================================================================
