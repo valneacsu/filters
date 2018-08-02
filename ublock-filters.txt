@@ -86,6 +86,9 @@ google.*##.widget-consent-dialog
 ! Nags
 google.*##.gb_g
 
+! GDPR
+hotnews.ro###avert
+
 ! App offer
 imgur.com##.FloatingOIA
 ! Floating bar
@@ -101,6 +104,9 @@ makeuseof.com##.sncmp-popup_content
 
 ! Hide cookie notice
 meteoblue.com##.successMessage
+
+! GDPR
+notebookreview.com##.header-privacy-policy
 
 pcgarage.ro###fixed_nl
 
