@@ -60,8 +60,11 @@ gfycat.com#@#.share-video
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
+biziday.ro###header
+biziday.ro##.site-title
 
 boards.ie##.top_adslot_wrapper
+boards.ie###important-notice-container
 
 cetin.ro##.cetinblog > .site-header > .prehead
 cetin.ro###secondary
@@ -69,6 +72,8 @@ cetin.ro###secondary
 daft.ie###dd-LocalDealer
 
 ebay.*##.hl-banner
+
+economictimes.com##.openinapp_cont
 
 ! Floating header
 engadget.com##.h-80
@@ -97,6 +102,9 @@ imgur.com##.Navbar
 imgur.com##.FooterOIA-container
 
 itfiles.ro###sidebar-place
+
+!
+libreelec.tv###wscConnectInfo
 
 ! GDPR notice
 makeuseof.com##.sncmp-popup_overlay
@@ -134,6 +142,10 @@ reddit.com###header-img
 reddit.com###uapp-banner
 ! Floating navigation bar
 reddit.com##.fixed
+!
+reddit.com##.nightmode.SnackBar
+! AMP app offer
+reddit.com##.treatment_6.amp_to_native_v2.SnackBar
 
 ! Floating header bar
 theverge.com##.tab-bar-fixed
