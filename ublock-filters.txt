@@ -58,6 +58,11 @@ gfycat.com#@#.share-video
 ###cookie-warning-gdpr
 ##.gdprMessage
 
+! Amazon ad spam
+amazon.*##.a-carousel
+amazon.*###anonCarousel1
+amazon.*###anonCarousel2
+
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
 biziday.ro###header
