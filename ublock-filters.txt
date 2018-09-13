@@ -62,6 +62,8 @@ gfycat.com#@#.share-video
 amazon.*##.a-carousel
 amazon.*###anonCarousel1
 amazon.*###anonCarousel2
+amazon.*##.adStripe1
+amazon.*##.adStripe2
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
