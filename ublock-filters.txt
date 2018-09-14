@@ -64,6 +64,7 @@ amazon.*###anonCarousel1
 amazon.*###anonCarousel2
 amazon.*##.adStripe1
 amazon.*##.adStripe2
+amazon.*###detail-ilm_div
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
@@ -84,6 +85,9 @@ economictimes.com##.openinapp_cont
 
 ! Floating header
 engadget.com##.h-80
+
+! FreakTab registration nag
+freaktab.com##.guestwarn
 
 gfycat.com##.navigation-container
 
