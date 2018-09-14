@@ -61,13 +61,14 @@ gfycat.com#@#.share-video
 ###cookie-warning-gdpr
 ##.gdprMessage
 
-! Amazon ad spam
+! Amazon ads
 amazon.*##.a-carousel
 amazon.*###anonCarousel1
 amazon.*###anonCarousel2
 amazon.*##.adStripe1
 amazon.*##.adStripe2
 amazon.*###detail-ilm_div
+amazon.*###merchandised-content
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
