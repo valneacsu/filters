@@ -21,6 +21,9 @@
 ! Content blocking
 !===============================================================================
 
+! Ensure this is not whitelisted in other lists
+fuckadblock.js$important
+
 ! Fix Amazon slow page load
 ||ssl-images-amazon.com$object
 ||images-amazon.com$object
