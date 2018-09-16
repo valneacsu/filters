@@ -69,6 +69,7 @@ amazon.*##.adStripe1
 amazon.*##.adStripe2
 amazon.*###detail-ilm_div
 amazon.*###merchandised-content
+amazon.*###rhf
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
