@@ -116,6 +116,8 @@ imgur.com##.FloatingOIA
 imgur.com###topbar
 imgur.com##.Navbar
 imgur.com##.FooterOIA-container
+! "Next" button
+imgur.com##.next-prev
 
 itfiles.ro###sidebar-place
 
