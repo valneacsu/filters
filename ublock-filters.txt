@@ -118,6 +118,8 @@ imgur.com##.Navbar
 imgur.com##.FooterOIA-container
 ! "Next" button
 imgur.com##.next-prev
+! Side gallery
+imgur.com###side-gallery
 
 itfiles.ro###sidebar-place
 
