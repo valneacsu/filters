@@ -70,6 +70,10 @@ amazon.*##.adStripe2
 amazon.*###detail-ilm_div
 amazon.*###merchandised-content
 amazon.*###rhf
+amazon.*###desktop-dp-sims_session-similarities-sims-feature
+amazon.*###desktop-dp-sims_purchase-similarities-sims-feature
+amazon.*###quickPromoBucketContent
+amazon.*##.maple-banner
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
@@ -189,6 +193,11 @@ youtube.com###ticker
 
 zoso.ro###secondary
 zoso.ro###zosoblog > .site-header
+
+! Hide pfSense license spam
+*.localdomain###usage
+*.localdomain##.in.fade.modal-backdrop
+*.localdomain##body:style(overflow: auto !important)
 
 ! Hide overlays
 ! Need to manually select and hide popups and overlays, while the below snippet resets
