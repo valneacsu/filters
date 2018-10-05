@@ -61,6 +61,8 @@ gfycat.com#@#.share-video
 ###cookie-warning-gdpr
 ##.gdprMessage
 
+9gag.com###sidebar
+
 ! Amazon ads
 amazon.*##.a-carousel
 amazon.*###anonCarousel1
