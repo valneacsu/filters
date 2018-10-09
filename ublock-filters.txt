@@ -21,6 +21,10 @@
 ! Content blocking
 !===============================================================================
 
+! Disable AMP redirect
+||ampproject.org^
+||cdn.ampproject.org/v0.js$script,redirect=ampproject.org/v0.js
+
 ! Ensure this is not whitelisted in other lists
 fuckadblock.js$important
 
