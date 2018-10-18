@@ -87,6 +87,7 @@ biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
 biziday.ro###header
 biziday.ro##.site-title
+biziday.ro##.ad-desktop-lead
 
 boards.ie##.top_adslot_wrapper
 boards.ie###important-notice-container
