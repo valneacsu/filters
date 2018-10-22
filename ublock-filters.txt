@@ -89,6 +89,8 @@ biziday.ro###header
 biziday.ro##.site-title
 biziday.ro##.ad-desktop-lead
 
+bloomberg.com###paywall-banner
+
 boards.ie##.top_adslot_wrapper
 boards.ie###important-notice-container
 
