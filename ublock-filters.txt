@@ -105,6 +105,8 @@ cetin.ro###secondary
 
 daft.ie###dd-LocalDealer
 
+donedeal.ie##.card--spotlight.card
+
 ebay.*##.hl-banner
 
 economictimes.com##.openinapp_cont
