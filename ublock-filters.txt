@@ -80,8 +80,9 @@ amazon.*###anonCarousel2
 amazon.*##.adStripe1
 amazon.*##.adStripe2
 amazon.*###detail-ilm_div
-amazon.*###merchandised-content
-amazon.*###rhf
+! Comment these out for now since they break Amazon's sale pages
+!amazon.*###merchandised-content
+!amazon.*###rhf
 amazon.*###desktop-dp-sims_session-similarities-sims-feature
 amazon.*###desktop-dp-sims_purchase-similarities-sims-feature
 amazon.*###quickPromoBucketContent
