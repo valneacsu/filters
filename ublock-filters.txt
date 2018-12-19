@@ -129,7 +129,7 @@ google.*###cnso
 google.*###rhscol
 google.*##.widget-consent-dialog
 ! Nags
-google.*##.gb_g
+!google.*##.gb_g
 
 ! GDPR
 hotnews.ro###avert
