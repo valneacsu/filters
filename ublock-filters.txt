@@ -87,6 +87,7 @@ amazon.*###desktop-dp-sims_session-similarities-sims-feature
 amazon.*###desktop-dp-sims_purchase-similarities-sims-feature
 amazon.*###quickPromoBucketContent
 amazon.*##.maple-banner
+amazon.*###sc-new-upsell
 amazon.*###sc-rec-bottom
 amazon.*###gw-desktop-herotator
 
