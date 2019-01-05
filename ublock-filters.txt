@@ -140,10 +140,10 @@ hotnews.ro###avert
 
 ! App offer
 imgur.com##.FloatingOIA
-! Floating bar
-imgur.com###topbar
-imgur.com##.Navbar
 imgur.com##.FooterOIA-container
+! Floating bar
+!imgur.com###topbar
+!imgur.com##.Navbar
 ! "Next" button
 imgur.com##.next-prev
 ! Side gallery
