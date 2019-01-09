@@ -87,6 +87,8 @@ amazon.*###desktop-dp-sims_session-similarities-sims-feature
 amazon.*###desktop-dp-sims_purchase-similarities-sims-feature
 amazon.*###quickPromoBucketContent
 amazon.*##.maple-banner
+! Hide Amazon Prime spam
+amazon.*###PrimeStripe
 amazon.*###sc-new-upsell
 amazon.*###sc-rec-bottom
 amazon.*###sc-rec-right
