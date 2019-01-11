@@ -196,6 +196,8 @@ reddit.com##.fixed
 reddit.com##.nightmode.SnackBar
 ! AMP app offer
 reddit.com##.treatment_6.amp_to_native_v2.SnackBar
+! Offer
+reddit.com##.premium-banner-outer
 
 ! Floating header bar
 theverge.com##.tab-bar-fixed
