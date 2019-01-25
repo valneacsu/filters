@@ -49,6 +49,8 @@ fuckadblock.js$important
 ! Element whitelisting
 !===============================================================================
 
+donedeal.ie#@#.ddb
+
 ! Unbreak gfycat.com on Firefox for Android using uBlock Origin
 ! with "Fanboy's Annoyance List".
 gfycat.com#@#.share-container
