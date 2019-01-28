@@ -14,6 +14,9 @@
 @@||dmstatic.com/*/jscript/daftie/tealium/tealium-plugin.js
 @@||dmstatic.com/*/jscript/daftie/tealium/tealium-config.js
 
+! Unbreak morganstanley.com
+@@||assets.adobedtm.com^$script,domain=morganstanley.com
+
 @@neacsu.eu^
 
 !===============================================================================
