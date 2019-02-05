@@ -62,6 +62,7 @@ gfycat.com#@#.share-video
 
 ! Whitelist Nextcloud share link option
 neacsu.eu#@##shareLink
+neacsu.eu#@#.share-menu
 neacsu.eu#@#.shareOption
 
 !===============================================================================
