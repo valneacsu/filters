@@ -108,6 +108,9 @@ biziday.ro##.ad-desktop-lead
 
 bloomberg.com###paywall-banner
 
+blueairweb.com##.mfp-ready
+blueairweb.com##html:style(overflow: auto !important;)
+
 boards.ie##.top_adslot_wrapper
 boards.ie###important-notice-container
 
