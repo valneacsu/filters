@@ -125,6 +125,8 @@ ebay.*##.hl-banner
 
 economictimes.com##.openinapp_cont
 
+emag.ro###active-people
+
 ! Floating header
 engadget.com##.h-80
 
