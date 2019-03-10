@@ -18,7 +18,7 @@
 @@||assets.adobedtm.com^$script,domain=morganstanley.com
 
 ! Unbreak VirginMedia.ie
-@@||www.virginmedia.ie/ruxitagentjs_*.js$script,domain=virginmedia.ie
+@@||virginmedia.ie/ruxitagentjs_*.js$script,domain=virginmedia.ie
 
 @@neacsu.eu^
 
