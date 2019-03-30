@@ -216,6 +216,7 @@ reddit.com##.premium-banner-outer
 ! Floating header bar
 theverge.com##.tab-bar-fixed
 ! Full-screen privacy consent dialog
+theverge.com###privacy-consent
 theverge.com###privacy-consent-ui
 theverge.com###privacyConsent
 
