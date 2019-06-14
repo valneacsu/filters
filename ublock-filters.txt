@@ -177,6 +177,7 @@ makeuseof.com##.sncmp-popup_content
 ! Hide cookie notice
 meteoblue.com##.successMessage
 meteoblue.com###modal
+meteoblue.com##body:style(overflow: auto !important)
 
 ! GDPR
 notebookreview.com##.header-privacy-policy
