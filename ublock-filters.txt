@@ -37,8 +37,8 @@
 fuckadblock.js$important
 
 ! Fix Amazon slow page load
-!||images-amazon.com$object
-!||ssl-images-amazon.com$object
+||ssl-images-amazon.com$object
+||images-amazon.com$object
 
 ||profitshare.ro^
 
