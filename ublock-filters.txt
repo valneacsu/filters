@@ -39,6 +39,12 @@ fuckadblock.js$important
 ! Fix Amazon slow page load
 ||ssl-images-amazon.com$object
 ||images-amazon.com$object
+! Stop Amazon logging
+||fls-*.amazon.*^$important
+! This got whitelisted in https://github.com/uBlockOrigin/uAssets/issues/1720
+! So for now forcefully disable
+||amazon.*/*uedata$important
+
 
 ||profitshare.ro^
 
