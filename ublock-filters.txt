@@ -77,12 +77,17 @@ gfycat.com#@#.share-video
 ! Element hiding
 !===============================================================================
 
+! Disable PWAs
+*##^link[rel="manifest"][href]
+
 ! Privacy/GDPR spam
 ###privacy-consent
 ###cookie-warning-gdpr
 ##.gdprMessage
 
 9gag.com###sidebar
+9gag.com##.download-app-container
+
 
 ! Amazon ads
 !
@@ -124,6 +129,8 @@ blueairweb.com##html:style(overflow: auto !important;)
 
 boards.ie##.top_adslot_wrapper
 boards.ie###important-notice-container
+
+businessinsider.com###mobile-intercept
 
 cetin.ro##.cetinblog > .site-header > .prehead
 cetin.ro###secondary
@@ -172,6 +179,9 @@ imgur.com##.FooterOIA-container
 imgur.com##.next-prev
 ! Side gallery
 imgur.com###side-gallery
+!
+imgur.com##.cta-image
+
 
 itfiles.ro###sidebar-place
 
@@ -222,6 +232,11 @@ reddit.com##.nightmode.SnackBar
 reddit.com##.treatment_6.amp_to_native_v2.SnackBar
 ! Offer
 reddit.com##.premium-banner-outer
+!
+reddit.com##.treatment_1.UpsellModal
+reddit.com##.holdout
+reddit.com##.XPromoPill
+
 
 ! Floating header bar
 theverge.com##.tab-bar-fixed
