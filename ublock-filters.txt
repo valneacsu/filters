@@ -64,21 +64,12 @@ fuckadblock.js$important
 
 donedeal.ie#@#.ddb
 
-! Unbreak gfycat.com on Firefox for Android using uBlock Origin
-! with "Fanboy's Annoyance List".
-gfycat.com#@#.share-container
-gfycat.com#@#.share-page
-gfycat.com#@#.share-video
-
 !===============================================================================
 
 
 !===============================================================================
 ! Element hiding
 !===============================================================================
-
-! Disable PWAs
-*##^link[rel="manifest"][href]
 
 ! Privacy/GDPR spam
 ###privacy-consent
