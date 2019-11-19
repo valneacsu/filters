@@ -247,6 +247,9 @@ twitch.tv##.player-play-overlay-button
 ! Side panel
 xda-developers.com###sidepanel
 
+! Hide footer spam
+xing.com##.footer-footer-darkMode-bcd3533a
+
 ! Privacy notice bar
 youtube.com###ticker
 
