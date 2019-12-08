@@ -179,6 +179,9 @@ itfiles.ro###sidebar-place
 !
 libreelec.tv###wscConnectInfo
 
+! Hide messaging overlay
+linkedin.com###msg-overlay
+
 ! GDPR notice
 makeuseof.com##.sncmp-popup_overlay
 makeuseof.com##.sncmp-popup_content
