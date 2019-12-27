@@ -139,6 +139,9 @@ emag.ro###active-people
 ! Floating header
 engadget.com##.h-80
 
+europafm.ro###ns-cookie-consent
+europafm.ro###ns-cookie-background
+
 ! FreakTab registration nag
 freaktab.com##.guestwarn
 
@@ -156,6 +159,8 @@ google.*##.widget-consent-dialog
 ! Nags
 ! Comment out for now to unbreak some Google sites
 !google.*##.gb_g
+! Related searches
+google.*###extrares
 
 ! GDPR
 hotnews.ro###avert
