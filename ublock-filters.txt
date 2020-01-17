@@ -192,6 +192,7 @@ makeuseof.com##.sncmp-popup_overlay
 makeuseof.com##.sncmp-popup_content
 
 ! Hide cookie notice
+meteoblue.com##.gdpr_message
 meteoblue.com##.successMessage
 meteoblue.com###modal
 meteoblue.com##body:style(overflow: auto !important)
