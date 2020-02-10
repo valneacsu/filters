@@ -106,6 +106,8 @@ amazon.*###sc-new-upsell
 amazon.*###sc-rec-bottom
 amazon.*###sc-rec-right
 amazon.*###gw-desktop-herotator
+! Top up top banner ad
+amazon.*###percolate-ui-ilm_div
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
