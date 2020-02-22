@@ -163,6 +163,8 @@ google.*##.widget-consent-dialog
 !google.*##.gb_g
 ! Related searches
 google.*###extrares
+! Updated TOS spam
+google.*###promos
 
 ! GDPR
 hotnews.ro###avert
