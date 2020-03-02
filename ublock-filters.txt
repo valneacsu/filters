@@ -265,6 +265,8 @@ xing.com##.footer-footer-darkMode-bcd3533a
 
 ! Privacy notice bar
 youtube.com###ticker
+! Survey spam
+youtube.com##ytd-popup-container
 
 zoso.ro###secondary
 zoso.ro###zosoblog > .site-header
