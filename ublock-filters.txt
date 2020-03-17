@@ -46,8 +46,10 @@ fuckadblock.js$important
 ! So for now forcefully disable
 !||amazon.*/*uedata$important
 
-
 ||profitshare.ro^
+
+! Remove subreddit branding
+||b.thumbs.redditmedia.com^$css
 
 ||trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
