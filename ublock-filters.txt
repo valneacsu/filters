@@ -242,6 +242,8 @@ reddit.com##.premium-banner-outer
 reddit.com##.treatment_1.UpsellModal
 reddit.com##.holdout
 reddit.com##.XPromoPill
+! Login nag
+reddit.com##.in
 
 
 ! Floating header bar
