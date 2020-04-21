@@ -1,4 +1,4 @@
-! Expires: 1 hours
+e Expires: 1 hours
 
 !===============================================================================
 ! Content whitelisting
@@ -49,7 +49,7 @@ fuckadblock.js$important
 ||profitshare.ro^
 
 ! Remove subreddit branding
-||b.thumbs.redditmedia.com^$css
+||thumbs.redditmedia.com^$css
 
 ||trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
