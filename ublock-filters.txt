@@ -171,9 +171,6 @@ google.*###promos
 ! GDPR
 hotnews.ro###avert
 
-! App offer
-imgur.com##.FloatingOIA
-imgur.com##.FooterOIA-container
 ! Floating bar
 !imgur.com###topbar
 !imgur.com##.Navbar

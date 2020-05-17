@@ -36,4 +36,12 @@ gfycat.com#@#.share-video
 ! Disable PWAs
 *##^link[rel="manifest"][href]
 
+! App offer
+m.imgur.com##.FloatingOIA
+m.imgur.com##.FooterOIA-container
+
+m.imgur.com##.App-topSidebar
+
+i.reddit.com##.mobile-web-redirect-bar
+
 !===============================================================================
