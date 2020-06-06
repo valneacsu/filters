@@ -143,6 +143,9 @@ emag.ro###active-people
 ! Floating header
 engadget.com##.h-80
 
+! GDPR spam
+eurogamer.net###onetrust-consent-sdk
+
 europafm.ro###ns-cookie-consent
 europafm.ro###ns-cookie-background
 
