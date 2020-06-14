@@ -41,6 +41,8 @@ m.imgur.com##.FloatingOIA
 m.imgur.com##.FooterOIA-container
 
 m.imgur.com##.App-topSidebar
+! Unbreak video player by removing video player overlay
+m.imgur.com##.Video-playContainer
 
 i.reddit.com##.mobile-web-redirect-bar
 
