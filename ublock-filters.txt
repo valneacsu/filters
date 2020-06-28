@@ -21,7 +21,9 @@ e Expires: 1 hours
 @@||virginmedia.ie/ruxitagentjs_*.js$script,domain=virginmedia.ie
 
 @@neacsu.eu^
+!@@neacsu.eu^$websocket
 @@localdomain^
+!@@localdomain^$websocket
 
 !===============================================================================
 
@@ -29,6 +31,9 @@ e Expires: 1 hours
 !===============================================================================
 ! Content blocking
 !===============================================================================
+
+! Disable WebSockets by default
+*$websocket
 
 ! Disable AMP redirect
 ||ampproject.org^
