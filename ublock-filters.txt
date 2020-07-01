@@ -186,6 +186,8 @@ imgur.com##.next-prev
 imgur.com###side-gallery
 !
 imgur.com##.cta-image
+! Whitelist spam footer
+imgur.com##.Footer-whitelist
 
 
 itfiles.ro###sidebar-place
