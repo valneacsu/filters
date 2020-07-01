@@ -1,4 +1,4 @@
-e Expires: 1 hours
+! Expires: 1 hours
 
 !===============================================================================
 ! Content whitelisting
