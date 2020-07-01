@@ -20,13 +20,8 @@ e Expires: 1 hours
 ! Unbreak VirginMedia.ie
 @@||virginmedia.ie/ruxitagentjs_*.js$script,domain=virginmedia.ie
 
-! Unbreak WhatsApp Web
-@@web.whatsapp.com^$websocket,domain=web.whatsapp.com
-
 @@neacsu.eu^
-!@@neacsu.eu^$websocket
 @@localdomain^
-!@@localdomain^$websocket
 
 !===============================================================================
 
@@ -35,8 +30,8 @@ e Expires: 1 hours
 ! Content blocking
 !===============================================================================
 
-! Disable WebSockets by default
-*$websocket
+! Disable WebSockets to third-party hosts by default
+*$websocket,third-party
 
 ! Disable AMP redirect
 ||ampproject.org^
