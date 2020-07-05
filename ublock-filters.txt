@@ -83,7 +83,8 @@ donedeal.ie#@#.ddb
 
 9gag.com###sidebar
 9gag.com##.download-app-container
-
+! Hide button to navigate to next gag
+9gag.com##.post-nav
 
 ! Amazon ads
 !
