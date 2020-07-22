@@ -183,12 +183,15 @@ hotnews.ro###avert
 !imgur.com##.Navbar
 ! "Next" button
 imgur.com##.next-prev
+imgur.com##.Navigation-next.Navigation
 ! Side gallery
 imgur.com###side-gallery
+imgur.com##.Gallery-Sidebar
 !
 imgur.com##.cta-image
-! Whitelist spam footer
+! Footer
 imgur.com##.Footer-whitelist
+imgur.com##.Footer-wrapper
 
 
 itfiles.ro###sidebar-place
