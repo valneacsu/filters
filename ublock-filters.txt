@@ -53,6 +53,8 @@ fuckadblock.js$important
 
 ! Remove subreddit branding
 ||thumbs.redditmedia.com^$css
+! Remove outbound link tracking
+reddit.com##+js(remove-attr.js, data-outbound-url)
 
 ||trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
