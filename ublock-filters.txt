@@ -116,6 +116,8 @@ amazon.*###sc-rec-right
 amazon.*###gw-desktop-herotator
 ! Top up top banner ad
 amazon.*###percolate-ui-ilm_div
+! Cookies footer banner
+amazon.*###sp-cc
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
