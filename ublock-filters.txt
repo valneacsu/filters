@@ -132,6 +132,7 @@ blueairweb.com##html:style(overflow: auto !important;)
 
 boards.ie##.top_adslot_wrapper
 boards.ie###important-notice-container
+boards.ie###notices
 
 businessinsider.com###mobile-intercept
 
