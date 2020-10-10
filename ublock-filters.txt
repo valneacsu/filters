@@ -164,6 +164,8 @@ freaktab.com##.guestwarn
 gfycat.com##.navigation-container
 
 github.com##*.signup-prompt
+github.com##.js-cookie-consent-banner
+
 
 google.*##DIV\[style="display: block; position: absolute; top: 0px; right: 0px;"]
 google.*###epbar
@@ -179,6 +181,16 @@ google.*##.widget-consent-dialog
 google.*###extrares
 ! Updated TOS spam
 google.*###promos
+! Hide GDPR modal
+google.com###lb > div[id][class=""][jsname][jsaction][owner][jsowner]
+google.com##:root:style(overflow-y: visible !important;)
+! Hide related searches spam
+google.com###botstuff
+! Hide image search spam
+google.com##g-section-with-header
+! Hide "people also search for" spam
+google.com##.xpdopen
+
 
 ! GDPR
 hotnews.ro###avert
@@ -285,6 +297,8 @@ xing.com##.footer-footer-darkMode-bcd3533a
 youtube.com###ticker
 ! Survey spam
 youtube.com##ytd-popup-container
+! Hide GDPR modal
+youtube.com###dialog
 
 zoso.ro###secondary
 zoso.ro###zosoblog > .site-header
