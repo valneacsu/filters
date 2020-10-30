@@ -185,7 +185,7 @@ google.*###extrares
 ! Updated TOS spam
 google.*###promos
 ! Hide GDPR modal
-google.com###lb > div[id][class=""][jsname][jsaction][owner][jsowner]
+google.com###lb > div[id][class=""][jsname][jsaction][jsowner]
 google.com##:root:style(overflow-y: visible !important;)
 ! Hide related searches spam
 google.com###botstuff
