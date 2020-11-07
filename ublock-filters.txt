@@ -118,6 +118,8 @@ amazon.*###gw-desktop-herotator
 amazon.*###percolate-ui-ilm_div
 ! Cookies footer banner
 amazon.*###sp-cc
+! Prime banner at checkout
+amazon.*###mostouter
 
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
