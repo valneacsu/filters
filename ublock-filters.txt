@@ -161,7 +161,8 @@ europafm.ro###ns-cookie-consent
 europafm.ro###ns-cookie-background
 
 ! Unbreak scrolling when GDPR modal is hidden
-facebook.com##body:has(div[data-testid="cookie-policy-banner"]:last-of-type) > ._31e:style(position: absolute !important;)
+!facebook.com##body:has(div[data-testid="cookie-policy-banner"]:last-of-type) > ._31e:style(position: absolute !important;)
+facebook.com##body > #u_0_6:style(position: absolute !important;)
 
 ! FreakTab registration nag
 freaktab.com##.guestwarn
