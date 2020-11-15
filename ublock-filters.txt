@@ -195,7 +195,9 @@ google.com###botstuff
 ! Hide image search spam
 google.com##g-section-with-header
 ! Hide "people also search for" spam
+google.com##.g-blk
 google.com##.xpdopen
+google.com##.xpd
 
 
 ! GDPR
@@ -218,6 +220,12 @@ imgur.com##.Footer-wrapper
 
 
 itfiles.ro###sidebar-place
+
+
+! Hide fake counters
+klasswagen.com##.people_looking
+klasswagen.com##.reserved_times
+
 
 !
 libreelec.tv###wscConnectInfo
