@@ -29,7 +29,7 @@
 !===============================================================================
 
 ! Hide "people also search for" spam
-google.*##.xpd
+google.*##div.xpd
 ! Hide additional information dropdowns
 google.*##div:has(> g-expandable-container[jsaction*=xpd_])
 

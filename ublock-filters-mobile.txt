@@ -36,6 +36,9 @@ gfycat.com#@#.share-video
 ! Disable PWAs
 *##^link[rel="manifest"][href]
 
+! Hide "people also search for" spam
+google.*###main > div.xpd
+
 ! App offer
 m.imgur.com##.FloatingOIA
 m.imgur.com##.FooterOIA-container
