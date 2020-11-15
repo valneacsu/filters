@@ -197,9 +197,6 @@ google.*##g-section-with-header
 ! Hide "people also search for" spam
 google.*##.g-blk
 google.*##.xpdopen
-google.*##.xpd
-! Hide additional information dropdowns
-google.*##div:has(> g-expandable-container[jsaction*=xpd_])
 
 
 ! GDPR
