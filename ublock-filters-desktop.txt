@@ -31,6 +31,9 @@
 ! Hide top banner
 gfycat.com##.top-slot
 
+! Hide bottom "explore more like"
+imgur.com##.BottomRecirc
+
 ! Hide "people also search for" spam
 google.*##div.xpd
 ! Hide additional information dropdowns
