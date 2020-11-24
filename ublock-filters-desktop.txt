@@ -28,6 +28,9 @@
 ! Element hiding
 !===============================================================================
 
+! Hide top banner
+gfycat.com##.top-slot
+
 ! Hide "people also search for" spam
 google.*##div.xpd
 ! Hide additional information dropdowns
