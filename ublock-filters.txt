@@ -285,6 +285,10 @@ reddit.com##.XPromoPill
 reddit.com##.in
 
 
+! GDPR spam
+rte.ie###onetrust-consent-sdk
+
+
 ! Floating header bar
 theverge.com##.tab-bar-fixed
 ! Full-screen privacy consent dialog
