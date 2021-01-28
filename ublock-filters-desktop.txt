@@ -42,4 +42,9 @@ google.*##div:has(> g-expandable-container[jsaction*=xpd_])
 ! Hide helper metadata (e.g. links, stars, opinions)
 google.*##.g > .rc > .IsZvec > div > div
 
+! Hide side bar spam
+!twitter.com##[data-testid="sidebarColumn"]
+twitter.com##[aria-label="Timeline: Trending now"]
+twitter.com##[aria-label="Who to follow"]
+
 !===============================================================================
