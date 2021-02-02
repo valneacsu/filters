@@ -28,6 +28,9 @@
 ! Element hiding
 !===============================================================================
 
+! Hide Prime spam
+amazon.*###prime_div
+
 ! Hide top banner
 gfycat.com##.top-slot
 
