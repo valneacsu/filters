@@ -45,6 +45,10 @@ google.*##div:has(> g-expandable-container[jsaction*=xpd_])
 ! Hide helper metadata (e.g. links, stars, opinions)
 google.*##.g > .rc > .IsZvec > div > div
 
+! Hide Netgate forum model
+forum.netgate.com##.modal-backdrop
+forum.netgate.com##.modal-dialog
+
 ! Hide side bar spam
 !twitter.com##[data-testid="sidebarColumn"]
 twitter.com##[aria-label="Timeline: Trending now"]
