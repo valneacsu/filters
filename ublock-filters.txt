@@ -219,6 +219,10 @@ imgur.com##.Footer-whitelist
 imgur.com##.Footer-wrapper
 
 
+! Hide GDPR modal
+instagram.com##div[role=presentation]:has(> div[role=dialog])
+
+
 itfiles.ro###sidebar-place
 
 
