@@ -69,6 +69,8 @@ reddit.com##+js(remove-attr.js, data-outbound-url)
 ! Element whitelisting
 !===============================================================================
 
+#@#body.cookieBannerActive
+
 donedeal.ie#@#.ddb
 
 !===============================================================================
