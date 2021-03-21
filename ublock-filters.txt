@@ -84,6 +84,8 @@ donedeal.ie#@#.ddb
 ###privacy-consent
 ###cookie-warning-gdpr
 ##.gdprMessage
+##.qc-cmp2-container
+
 
 9gag.com###sidebar
 9gag.com##.download-app-container
@@ -302,10 +304,6 @@ theverge.com##.tab-bar-fixed
 theverge.com###privacy-consent
 theverge.com###privacy-consent-ui
 theverge.com###privacyConsent
-
-
-! GDPR modal
-tomshardware.com##.qc-cmp2-container
 
 
 ! Fix broken twitch.tv due to disabled autoplay
