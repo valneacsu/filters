@@ -251,6 +251,11 @@ meteoblue.com##.successMessage
 meteoblue.com###modal
 meteoblue.com##body:style(overflow: auto !important)
 
+! Hide redundant panels
+forums.moneysavingexpert.com##.InfoMessage
+forums.moneysavingexpert.com##.SecondaryPanel
+forums.moneysavingexpert.com##.MainContent.Content:style(width: 100% !important;)
+
 ! GDPR
 notebookreview.com##.header-privacy-policy
 
