@@ -51,7 +51,11 @@ forum.netgate.com##.modal-dialog
 
 ! Hide side bar spam
 !twitter.com##[data-testid="sidebarColumn"]
+twitter.com##[aria-label="Timeline: "]
 twitter.com##[aria-label="Timeline: Trending now"]
 twitter.com##[aria-label="Who to follow"]
+! Hide timeline spam
+twitter.com##div[aria-label="Timeline: Your Home Timeline"] > div > div:has(span:has-text(/Who to follow/))
+
 
 !===============================================================================
