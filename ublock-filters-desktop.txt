@@ -57,6 +57,7 @@ twitter.com##[aria-label="Who to follow"]
 ! Hide timeline spam
 twitter.com##div[aria-label="Timeline: Your Home Timeline"] > div > div:has(span:has-text(/Who to follow/))
 twitter.com##div[aria-label="Timeline: Your Home Timeline"] > div > div:has(span:has-text(/Follow Topic/))
+twitter.com##div[aria-label="Timeline: Your Home Timeline"] > div > div:has(div[data-testid="UserCell"])
 
 
 !===============================================================================
