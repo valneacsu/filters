@@ -147,6 +147,9 @@ cetin.ro###secondary
 
 daft.ie###dd-LocalDealer
 
+! Flaoting header
+deskelly.ie##div.head-main.fixed:style(position: relative !important;)
+
 donedeal.ie##.card--spotlight.card
 
 ebay.*##.hl-banner
