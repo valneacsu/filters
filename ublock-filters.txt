@@ -186,15 +186,18 @@ google.*###epbar
 google.*###cnso
 ! Comment out for now to unbreak some Google sites
 !google.*###rhscol
-!google.*##.widget-consent-dialog
+google.*##.widget-consent-dialog
+! Nags
+! Comment out for now to unbreak some Google sites
+!google.*##.gb_g
 ! Related searches
 google.*###extrares
 ! Updated TOS spam
 google.*###promos
 ! Hide GDPR modal
 !google.*###lb > div[id][class=""][jsname][jsaction][jsowner]
-!google.*##div[role=dialog]:has(div:has-text(/cookie/):last-of-type)
-!google.*##:root:style(overflow-y: visible !important;)
+google.*##div[role=dialog]:has(div:has-text(/cookie/):last-of-type)
+google.*##:root:style(overflow-y: visible !important;)
 ! Hide related searches spam
 google.*###botstuff
 ! Hide image search spam
@@ -202,9 +205,6 @@ google.*##g-section-with-header
 ! Hide "people also search for" spam
 google.*##.g-blk
 google.*##.xpdopen
-! Disable GDPR consent interstitial
-||consent.google.*^
-google.*##^script:has-text(CONSENT)
 
 
 ! GDPR
