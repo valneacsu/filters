@@ -182,9 +182,6 @@ github.com##.js-cookie-consent-banner
 
 ! "A privacy reminder from Google"
 google.*###cnso
-! Nags
-! Comment out for now to unbreak some Google sites
-!google.*##.gb_g
 ! Related searches
 google.*###extrares
 ! Updated TOS spam
@@ -201,9 +198,9 @@ google.*##.xpdopen
 !google.*##div[role=dialog]:has(div:has-text(/cookie/):last-of-type)
 !google.*##:root:style(overflow-y: visible !important;)
 ! Google consent, "before you continue"
-!www.google.*##^script:has-text(consentCookiePayload)
-!www.google.*##+js(acis, document.cookie, YES+)
-!google.*##+js(aeld, DOMContentLoaded, CONSENT)
+google.*##^script:has-text(consentCookiePayload)
+google.*##+js(acis, document.cookie, YES+)
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
 !||consent.google.com^
 
 
