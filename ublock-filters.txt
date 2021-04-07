@@ -180,13 +180,8 @@ github.com##*.signup-prompt
 github.com##.js-cookie-consent-banner
 
 
-google.*##DIV\[style="display: block; position: absolute; top: 0px; right: 0px;"]
-google.*###epbar
 ! "A privacy reminder from Google"
 google.*###cnso
-! Comment out for now to unbreak some Google sites
-!google.*###rhscol
-google.*##.widget-consent-dialog
 ! Nags
 ! Comment out for now to unbreak some Google sites
 !google.*##.gb_g
@@ -194,10 +189,6 @@ google.*##.widget-consent-dialog
 google.*###extrares
 ! Updated TOS spam
 google.*###promos
-! Hide GDPR modal
-!google.*###lb > div[id][class=""][jsname][jsaction][jsowner]
-google.*##div[role=dialog]:has(div:has-text(/cookie/):last-of-type)
-google.*##:root:style(overflow-y: visible !important;)
 ! Hide related searches spam
 google.*###botstuff
 ! Hide image search spam
@@ -205,6 +196,15 @@ google.*##g-section-with-header
 ! Hide "people also search for" spam
 google.*##.g-blk
 google.*##.xpdopen
+! Hide GDPR modal
+!google.*###lb > div[id][class=""][jsname][jsaction][jsowner]
+!google.*##div[role=dialog]:has(div:has-text(/cookie/):last-of-type)
+!google.*##:root:style(overflow-y: visible !important;)
+! Google consent, "before you continue"
+!www.google.*##^script:has-text(consentCookiePayload)
+!www.google.*##+js(acis, document.cookie, YES+)
+!google.*##+js(aeld, DOMContentLoaded, CONSENT)
+!||consent.google.com^
 
 
 ! GDPR
