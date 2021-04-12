@@ -59,5 +59,7 @@ twitter.com##div[aria-label="Timeline: Your Home Timeline"] > div > div:has(span
 twitter.com##div[aria-label="Timeline: Your Home Timeline"] > div > div:has(span:has-text(/Follow Topic/))
 twitter.com##div[aria-label="Timeline: Your Home Timeline"] > div > div:has(div[data-testid="UserCell"])
 
+! Hide T&C nag
+web.whatsapp.com##span:has(div:has-text(WhatsApp is updating its terms and privacy policy))
 
 !===============================================================================
