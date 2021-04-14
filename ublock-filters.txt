@@ -242,6 +242,8 @@ libreelec.tv###wscConnectInfo
 
 ! Hide messaging overlay
 linkedin.com###msg-overlay
+! Top toolbar
+linkedin.com##div > div.scaffold-layout > section.scaffold-layout-toolbar
 
 ! GDPR notice
 makeuseof.com##.sncmp-popup_overlay
