@@ -91,8 +91,11 @@ donedeal.ie#@#.ddb
 9gag.com##.download-app-container
 ! Hide button to navigate to next gag
 9gag.com##.post-nav
-! Un-sticky floating bar
+! Un-sticky main page floating bar
 9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div.sticky:style(position: static !important;)
+! Un-sticky post floating bar
+9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div > section[id="individual-post"] > article.post-page > div.fixed-wrap-post-bar:style(position: static !important;)
+9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div > section[id="individual-post"] > article.post-page > div.post-container:style(margin-top: 0 !important;)
 
 ! Amazon ads
 !
