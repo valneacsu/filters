@@ -91,6 +91,8 @@ donedeal.ie#@#.ddb
 9gag.com##.download-app-container
 ! Hide button to navigate to next gag
 9gag.com##.post-nav
+! Un-sticky floating bar
+9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div.sticky:style(position: static !important;)
 
 ! Amazon ads
 !
