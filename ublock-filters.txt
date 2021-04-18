@@ -309,7 +309,7 @@ reddit.com##.in
 
 
 ! GDPR spam
-rte.ie###onetrust-consent-sdk
+rte.ie##body > div[id="onetrust-consent-sdk"]
 
 
 ! Floating header bar
