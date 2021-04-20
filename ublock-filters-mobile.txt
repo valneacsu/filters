@@ -47,6 +47,9 @@ m.imgur.com##.App-topSidebar
 ! Unbreak video player by removing video player overlay
 m.imgur.com##.Video-playContainer
 
+! Hide broken sidebar
+irishtimes.com###sidebar
+
 i.reddit.com##.mobile-web-redirect-bar
 
 !===============================================================================

@@ -34,9 +34,6 @@ amazon.*###prime_div
 ! Hide top banner
 gfycat.com##.top-slot
 
-! Hide bottom "explore more like"
-imgur.com##.BottomRecirc
-
 ! Hide "people also search for" spam
 google.*##div.xpd
 ! Hide additional information dropdowns
@@ -44,6 +41,12 @@ google.*##div:has(> g-expandable-container[jsaction*=xpd_])
 
 ! Hide helper metadata (e.g. links, stars, opinions)
 google.*##.g > .rc > .IsZvec > div > div
+
+! Hide bottom "explore more like"
+imgur.com##.BottomRecirc
+
+! Hide sidebar
+irishtimes.com###content_right
 
 ! Hide Netgate forum model
 forum.netgate.com##.modal-backdrop
