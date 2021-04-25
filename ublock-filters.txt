@@ -320,6 +320,10 @@ theverge.com###privacy-consent-ui
 theverge.com###privacyConsent
 
 
+! GDPR modal
+tomshardware.com##body > div.qc-cmp2-container
+
+
 ! Fix broken twitch.tv due to disabled autoplay
 twitch.tv##.ima-ads-container.js-ima-ads-container
 twitch.tv##.js-control-fullscreen-overlay.player-fullscreen-overlay.player-overlay
