@@ -96,6 +96,8 @@ donedeal.ie#@#.ddb
 ! Un-sticky post floating bar
 9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div > section[id="individual-post"] > article.post-page > div.fixed-wrap-post-bar:style(position: static !important;)
 9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div > section[id="individual-post"] > article.post-page > div.post-container:style(margin-top: 0 !important;)
+! Hide "more posts" section on post page
+9gag.com##div:has(> div.post-more-divider)
 
 ! Amazon ads
 !
