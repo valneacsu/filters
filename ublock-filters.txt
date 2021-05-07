@@ -85,6 +85,7 @@ donedeal.ie#@#.ddb
 ###cookie-warning-gdpr
 ##.gdprMessage
 ##.qc-cmp2-container
+###onetrust-consent-sdk
 
 
 9gag.com###sidebar
@@ -170,9 +171,6 @@ emag.ro###active-people
 
 ! Floating header
 engadget.com##.h-80
-
-! GDPR spam
-eurogamer.net###onetrust-consent-sdk
 
 europafm.ro###ns-cookie-consent
 europafm.ro###ns-cookie-background
@@ -313,10 +311,6 @@ reddit.com##.XPromoPill
 reddit.com##.in
 
 
-! GDPR spam
-rte.ie##body > div[id="onetrust-consent-sdk"]
-
-
 ! Floating header bar
 theverge.com##.tab-bar-fixed
 ! Full-screen privacy consent dialog
@@ -349,6 +343,7 @@ youtube.com###ticker
 youtube.com##ytd-popup-container
 ! Hide GDPR modal
 youtube.com###dialog
+
 
 zoso.ro###secondary
 zoso.ro###zosoblog > .site-header
