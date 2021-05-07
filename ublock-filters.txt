@@ -132,6 +132,9 @@ amazon.*###sp-cc
 ! Prime banner at checkout
 amazon.*###mostouter
 
+! Cookie modal
+basewfp.com##div.fd-cc-root
+
 biziday.ro##.ContentColRight.right
 biziday.ro##.leftColContent
 biziday.ro###header
