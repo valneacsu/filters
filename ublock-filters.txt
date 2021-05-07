@@ -85,7 +85,7 @@ donedeal.ie#@#.ddb
 ###cookie-warning-gdpr
 ##.gdprMessage
 ##.qc-cmp2-container
-###onetrust-consent-sdk
+##body > div[id="onetrust-consent-sdk"]
 
 
 9gag.com###sidebar
