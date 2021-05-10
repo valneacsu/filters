@@ -310,6 +310,9 @@ reddit.com##.XPromoPill
 ! Login nag
 reddit.com##.in
 
+! GDPR modal
+! The generic filter doesn't work because rte.ie is whitelisted in `uBlock filters`
+rte.ie##body > div[id="onetrust-consent-sdk"]
 
 ! Floating header bar
 theverge.com##.tab-bar-fixed
