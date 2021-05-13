@@ -175,8 +175,9 @@ engadget.com##.h-80
 europafm.ro###ns-cookie-consent
 europafm.ro###ns-cookie-background
 
+! GDPR modal and overlay
+facebook.com##div:has(> div:matches-css(position: fixed)):has(> div:has(span:has-text(We use cookies)))
 ! Unbreak scrolling when GDPR modal is hidden
-!facebook.com##body:has(div[data-testid="cookie-policy-banner"]:last-of-type) > ._31e:style(position: absolute !important;)
 facebook.com##body > div:has(> div[id="globalContainer"]):style(position: absolute !important;)
 
 ! FreakTab registration nag
