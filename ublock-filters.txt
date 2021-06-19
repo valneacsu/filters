@@ -85,7 +85,7 @@ donedeal.ie#@#.ddb
 ###cookie-warning-gdpr
 ##.gdprMessage
 ##.qc-cmp2-container
-##body > div[id="onetrust-consent-sdk"]
+##body > div#onetrust-consent-sdk
 
 
 9gag.com###sidebar
@@ -93,10 +93,10 @@ donedeal.ie#@#.ddb
 ! Hide button to navigate to next gag
 9gag.com##.post-nav
 ! Un-sticky main page floating bar
-9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div.sticky:style(position: static !important;)
+9gag.com##div#container > div#page > div.main-wrap > div.sticky:style(position: static !important;)
 ! Un-sticky post floating bar
-9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div > section[id="individual-post"] > article.post-page > div.fixed-wrap-post-bar:style(position: static !important;)
-9gag.com##div[id="container"] > div[id="page"] > div.main-wrap > div > section[id="individual-post"] > article.post-page > div.post-container:style(margin-top: 0 !important;)
+9gag.com##div#container > div#page > div.main-wrap > div > section#individual-post > article.post-page > div.fixed-wrap-post-bar:style(position: static !important;)
+9gag.com##div#container > div#page > div.main-wrap > div > section#individual-post > article.post-page > div.post-container:style(margin-top: 0 !important;)
 ! Hide "more posts" section on post page
 9gag.com##div:has(> div.post-more-divider)
 
@@ -178,7 +178,7 @@ europafm.ro###ns-cookie-background
 ! GDPR modal and overlay
 facebook.com##div:has(> div:matches-css(position: fixed)):has(> div:has(span:has-text(We use cookies)))
 ! Unbreak scrolling when GDPR modal is hidden
-facebook.com##body > div:has(> div[id="globalContainer"]):style(position: absolute !important;)
+facebook.com##body > div:has(> div#globalContainer):style(position: absolute !important;)
 
 ! FreakTab registration nag
 freaktab.com##.guestwarn
@@ -313,7 +313,7 @@ reddit.com##.in
 
 ! GDPR modal
 ! The generic filter doesn't work because rte.ie is whitelisted in `uBlock filters`
-rte.ie##body > div[id="onetrust-consent-sdk"]
+rte.ie##body > div#onetrust-consent-sdk
 
 ! Floating header bar
 theverge.com##.tab-bar-fixed
